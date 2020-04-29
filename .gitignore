@@ -1,0 +1,12 @@
+.vs
+.idea
+bin
+obj
+
+*.user
+
+Thumbs.db
+.DS_Store
+
+launchSettings.json
+*_wpftmp.csproj
