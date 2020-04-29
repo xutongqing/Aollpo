@@ -45,6 +45,7 @@ C:\Users\xuton\source\repos\WebApplication4\Aollpo\bin\Debug\netcoreapp3.1\runti
 C:\Users\xuton\source\repos\WebApplication4\Aollpo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\xuton\source\repos\WebApplication4\Aollpo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\xuton\source\repos\WebApplication4\Aollpo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xuton\source\repos\WebApplication4\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.csprojAssemblyReference.cache
 C:\Users\xuton\source\repos\WebApplication4\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.csproj.CoreCompileInputs.cache
 C:\Users\xuton\source\repos\WebApplication4\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\xuton\source\repos\WebApplication4\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.RazorAssemblyInfo.cache

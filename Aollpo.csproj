@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>1.0.0.1</Version>
+    <Authors>徐晓雨</Authors>
+    <Description>练习程序</Description>
   </PropertyGroup>
 
   <ItemGroup>

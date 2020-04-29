@@ -5648,7 +5648,7 @@
     "C:\\Users\\xuton\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\xuton\\source\\repos\\WebApplication4\\Aollpo\\Aollpo.csproj",
       "projectName": "Aollpo",
