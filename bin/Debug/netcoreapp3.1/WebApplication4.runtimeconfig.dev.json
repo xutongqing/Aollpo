@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\xuton\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\xuton\\.nuget\\packages"
-    ]
-  }
-}
