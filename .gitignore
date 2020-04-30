@@ -13,3 +13,4 @@ launchSettings.json
 obj/Debug/netcoreapp3.1/Aollpo.csproj.FileListAbsolute.txt
 .vs/Aollpo/v16/.suo
 *.suo
+*.txt
