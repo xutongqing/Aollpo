@@ -90,3 +90,4 @@ E:\Work\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.RazorTargetAssemblyInfo.cache
 E:\Work\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.RazorTargetAssemblyInfo.cs
 E:\Work\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.dll
 E:\Work\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.pdb
+E:\Work\Aollpo\obj\Debug\netcoreapp3.1\Aollpo.csprojAssemblyReference.cache

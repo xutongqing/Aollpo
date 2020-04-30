@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication4.Models;
+using Aollpo.Models;
 
-namespace WebApplication4.Data
+namespace Aollpo.Data
 {
     public class MvcMovieContext : DbContext
     {

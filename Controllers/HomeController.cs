@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-using WebApplication4.Data;
-using WebApplication4.Models;
+using Aollpo.Data;
+using Aollpo.Models;
 
-namespace WebApplication4.Controllers
+namespace Aollpo.Controllers
 {
     public class HomeController : Controller
     {
