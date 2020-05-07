@@ -29,6 +29,8 @@ namespace Aollpo
 
 
             services.AddDbContext<MvcMovieContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddCors(options => options.AddPolicy("AllowCors",bu => bu.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +52,8 @@ namespace Aollpo
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("AllowCors");
 
             app.UseEndpoints(endpoints =>
             {
