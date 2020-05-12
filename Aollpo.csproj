@@ -8,6 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Aollpo.IRepository\**" />
+    <Content Remove="Aollpo.IRepository\**" />
+    <EmbeddedResource Remove="Aollpo.IRepository\**" />
+    <None Remove="Aollpo.IRepository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove=".gitignore" />
   </ItemGroup>
 
