@@ -8,10 +8,26 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Aollpo.Enties\**" />
     <Compile Remove="Aollpo.IRepository\**" />
+    <Compile Remove="Aollpo.IService\**" />
+    <Compile Remove="Aollpo.Repository\**" />
+    <Compile Remove="Aollpo.Service\**" />
+    <Content Remove="Aollpo.Enties\**" />
     <Content Remove="Aollpo.IRepository\**" />
+    <Content Remove="Aollpo.IService\**" />
+    <Content Remove="Aollpo.Repository\**" />
+    <Content Remove="Aollpo.Service\**" />
+    <EmbeddedResource Remove="Aollpo.Enties\**" />
     <EmbeddedResource Remove="Aollpo.IRepository\**" />
+    <EmbeddedResource Remove="Aollpo.IService\**" />
+    <EmbeddedResource Remove="Aollpo.Repository\**" />
+    <EmbeddedResource Remove="Aollpo.Service\**" />
+    <None Remove="Aollpo.Enties\**" />
     <None Remove="Aollpo.IRepository\**" />
+    <None Remove="Aollpo.IService\**" />
+    <None Remove="Aollpo.Repository\**" />
+    <None Remove="Aollpo.Service\**" />
   </ItemGroup>
 
   <ItemGroup>
