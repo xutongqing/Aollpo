@@ -10,9 +10,10 @@ namespace Aollpo.Models
     public class Movie
     {
         public int Id { get; set; }
+        [Display(Name ="标题")]
         public string Title { get; set; }
 
-        [Display(Name ="Release Date")]
+        [Display(Name ="发布日期")]
         [DataType(DataType.Date)]
         public DateTime ReleaseDate { get; set; }
         public string Genre { get; set; }
