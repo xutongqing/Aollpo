@@ -23,8 +23,12 @@ namespace Aollpo.Controllers
             _Context = context;
         }
 
+        /// <summary>
+        /// test
+        /// </summary>
+        /// <returns></returns>
         public async Task<IActionResult> IndexAsync()
-        {
+         {
 
             var movie = await _Context.Movie.FirstOrDefaultAsync(p => p.Id.ToString() == "1");
 
